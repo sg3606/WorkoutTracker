@@ -21,9 +21,9 @@
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
   ## Screenshots
-  ![Demo](./screenshots/1.PNG)
-  ![Demo](./screenshots/2.PNG)
-  ![Demo](./screenshots/3.PNG)
+  ![Demo](./screenshots/1.png)
+  ![Demo](./screenshots/2.png)
+  ![Demo](./screenshots/3.png)
 
   ## Live
   [heroku](https://sheltered-reaches-79738.herokuapp.com/?id=60bbf037fe11532d1d313594)
